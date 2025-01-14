@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("paisaje-natural-1-e1550502825872.jpg");
+    margin: 0;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+div>.contenedor{
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    font-size: 80px;
+    font-weight: bold;
+    text-shadow: 0 0 8px #6192fb;
+    width: 420px;
+    height: 100px;
+    margin-top: 0px;
+    background-color: rgba(0, 0, 0, 0.387);
+    border: 2px solid beige;
+    
+    border: 0px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px   rgb(134, 134, 246);
+}
+div{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+span{
+    margin-top: 540px;
+}
